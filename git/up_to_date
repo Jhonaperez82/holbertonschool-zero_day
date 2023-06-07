@@ -1,0 +1,7 @@
+git pull
+touch
+cd
+git add .
+git checkout
+rm
+mkdir
